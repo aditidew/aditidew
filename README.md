@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Dewangan</h1>
+<h1 align="center">Hi, I'm Aditi Dewangan</h1>
 <h3 align="center">Scaling systems, Sharpening skills, Shipping code.</h3>
 
 - 🌱 I’m currently learning **Development and Operations**
