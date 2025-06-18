@@ -71,29 +71,32 @@
 <div align="center">
 
 
-## 🚀 Top Projects
+<h2 align="center">🚀 Top Projects</h2>
 
-### 🌍 [TripSera](https://github.com/your-username/TripSera)
-**Tech Stack:** JavaScript  
-**Description:** TripSera helps travelers make the most of unexpected delays or layovers by suggesting nearby restaurants, cafes, malls, and tourist attractions.  
-**Key Features:**
-- Location-based search
-- Real-time suggestions
-- Responsive user interface
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/your-username/TripSera">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <h3>🌍 TripSera</h3>
+      </a>
+      <p>
+        A smart travel companion that helps users find nearby restaurants, malls, cafes, and attractions during layovers or delays. Just input your location and duration — and explore more.
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/your-username/Spotify-Recommendation">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <h3>🎵 Spotify Recommendation</h3>
+      </a>
+      <p>
+        A machine learning-based music recommender that uses Spotify’s API to suggest songs based on listening preferences. Personalized and dynamic.
+      </p>
+    </td>
+  </tr>
+</table>
 
----
-
-### 🎵 [Spotify Recommendation System](https://github.com/your-username/Spotify-Recommendation)
-**Tech Stack:** Python, Jupyter Notebook, Spotify API, Machine Learning  
-**Description:** A music recommendation system that provides personalized suggestions based on user preferences by integrating Spotify’s API and ML algorithms.  
-**Key Features:**
-- Real-time recommendations
-- Smart playlist generation
-- User-centric learning engine
-
----
-
-💡 *I’m continuously learning and working on new projects across different domains like web development, artificial intelligence, and system design.*
+<p align="center"><i>✨ Continuously learning and building more projects in Web Dev, AI, and System Design...</i></p>
 
 
 <div align="center">
