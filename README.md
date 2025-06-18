@@ -48,16 +48,47 @@ Currently diving into the world of **Development and Operations**, and always ea
 
 
 
----
+<h3 align="center">📌 My Pinned Projects</h3>
 
-### 🚀 Pinned Projects
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="400">
+        <strong>🌍 <a href="https://github.com/aditidewangan/TripSera">TripSera</a></strong><br/>
+        Helps travelers find nearby restaurants, cafes, malls, and attractions during delays or layovers.<br/>
+        <code>JavaScript</code>
+      </td>
+      <td width="400">
+        <strong>🐠 <a href="https://github.com/aditidewangan/Adaquarium">Adaquarium</a></strong><br/>
+        Aquarium-themed site with zoom-in plant info and an embedded chat feature.<br/>
+        <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="400">
+        <strong>🎧 <a href="https://github.com/aditidewangan/Spotify-Recommendation">Spotify Recommendation</a></strong><br/>
+        Suggests personalized songs using Spotify API + Machine Learning.<br/>
+        <code>Python</code> <code>Jupyter Notebook</code>
+      </td>
+      <td width="400">
+        <strong>☀️ <a href="https://github.com/aditidewangan/Weather-App">Weather App</a></strong><br/>
+        Real-time weather updates for any location using OpenWeather API.<br/>
+        <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="400">
+        <strong>🧪 <a href="https://github.com/aditidewangan/keploy">Keploy (Fork)</a></strong><br/>
+        API testing agent to auto-generate unit & integration tests.<br/>
+        <code>Go</code> <code>DevOps</code>
+      </td>
+      <td width="400">
+        <strong>🐚 <a href="https://github.com/aditidewangan/ShellScripting_DevOps">Shell Scripting - DevOps</a></strong><br/>
+        Foundation projects for learning shell scripting in DevOps.<br/>
+        <code>Shell</code> <code>Bash</code>
+      </td>
+    </tr>
+  </table>
 
-| Project | Description & Tech Stack |
-|--------|---------------------------|
-| 🔹 [TripSera](https://github.com/aditidewangan/TripSera) | Helps travelers find nearby restaurants, cafes, malls, and attractions during delays or layovers. <br> 🛠️ *JavaScript* |
-| 🐠 [Adaquarium](https://github.com/aditidewangan/Adaquarium) | An aquarium-themed site with plant zoom-in and interactive info-chat features. <br> 🛠️ *HTML, CSS, JavaScript* |
-| 🎧 [Spotify Recommendation](https://github.com/aditidewangan/Spotify-Recommendation) | Suggests personalized songs using Spotify API and ML techniques. <br> 🛠️ *Python, Jupyter Notebook, Spotify API* |
-| ☀️ [Weather App](https://github.com/aditidewangan/Weather-App) | Real-time weather updates using OpenWeather API, showing temperature, humidity, and more. <br> 🛠️ *HTML, CSS, JS* |
-| 🧪 [Keploy (Fork)](https://github.com/aditidewangan/keploy) | Testing agent to auto-generate unit, API & integration tests. <br> 🛠️ *Go, Docker, DevOps Tools* |
-| 🐚 [Shell Scripting - DevOps (Fork)](https://github.com/aditidewangan/ShellScripting_DevOps) | Hands-on shell scripting projects for DevOps foundations. <br> 🛠️ *Shell, Bash, Linux CLI* |
-
+</div>
