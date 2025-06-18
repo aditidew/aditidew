@@ -41,5 +41,5 @@ I’m Aditi — part developer, part problem-solver, and full-time tech tinkerer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditidew&layout=compact&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditidew&theme=default)
 
