@@ -2,44 +2,52 @@
 ![Aditi's GitHub Banner](./banner/mybanner.png)
 
 Hey there 👋
+<div align="center">
+
 I’m Aditi — part developer, part problem-solver, and full-time tech tinkerer. I blend logic with creativity to build clean code, smooth systems, and seamless experiences. From writing efficient backend logic to streamlining operations, I love turning complexity into clarity.
 
-## 💼 Tech Stack
+</div>
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-181717?logo=python&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-181717?logo=java&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-181717?logo=c%2B%2B&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?logo=javascript&logoColor=white&style=flat-square)
 
-**Web Development:**  
-![HTML](https://img.shields.io/badge/-HTML5-181717?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS3-181717?logo=css3&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-181717?logo=tailwind-css&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-181717?logo=react&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-181717?logo=node.js&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-181717?logo=express&logoColor=white&style=flat-square)
+## 💻 My Tech Stack
 
-**Databases & Cloud:**  
-![MySQL](https://img.shields.io/badge/-MySQL-181717?logo=mysql&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-181717?logo=mongodb&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-181717?logo=firebase&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-181717?logo=amazon-aws&logoColor=white&style=flat-square)
+### 💡 Languages & Concepts
+![C++](https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white)
+![OOP](https://img.shields.io/badge/OOPs-181717?style=for-the-badge&logo=codeforces&logoColor=white)
+![Operating System](https://img.shields.io/badge/Operating%20System-181717?style=for-the-badge&logo=linux&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-181717?style=for-the-badge&logo=database&logoColor=white)
 
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/-Git-181717?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-181717?logo=docker&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-181717?logo=postman&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS%20Code-181717?logo=visual-studio-code&logoColor=white&style=flat-square)
+### 🛠️ Tools & Technologies
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux (RedHat)](https://img.shields.io/badge/Linux(RedHat124)-181717?style=for-the-badge&logo=redhat&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-181717?style=for-the-badge&logo=amazonaws&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-181717?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white)
 
+### 🚀 Development Skills
+![Web Development](https://img.shields.io/badge/Web%20Development-181717?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-181717?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-181717?style=for-the-badge&logo=hackerrank&logoColor=white)
+![System Design](https://img.shields.io/badge/Basic%20System%20Design-181717?style=for-the-badge&logo=microsoft&logoColor=white)
+![Agile Development](https://img.shields.io/badge/Agile%20Development-181717?style=for-the-badge&logo=jira&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-181717?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ## 📊 GitHub Stats
 
-![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditidew&show_icons=true&theme=default)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditidew&layout=compact&theme=default)
+![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditidew&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditidew&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditidew&layout=compact&theme=dark&hide_border=true)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=aditidew&theme=default)
 
