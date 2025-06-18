@@ -50,15 +50,6 @@
 
   <br/><br/>
 
-  <!-- Development Skills -->
-  <img src="https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-5E35B1?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-34495E?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-FFC107?style=for-the-badge&logo=jira&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI-7F00FF?style=for-the-badge&logo=openai&logoColor=white" />
-
-
 --  
 
 </div>
@@ -68,15 +59,12 @@
 
 
 
-<div align="center">
-
-
 <h2 align="center">🚀 Top Projects</h2>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/your-username/TripSera">
+      <a href="https://github.com/aditidew/TripSera">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
         <h3>🌍 TripSera</h3>
       </a>
@@ -85,7 +73,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/your-username/Spotify-Recommendation">
+      <a href="https://github.com/aditidew/Spotify-Recommendation">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <h3>🎵 Spotify Recommendation</h3>
       </a>
@@ -98,8 +86,6 @@
 
 <p align="center"><i>✨ Continuously learning and building more projects in Web Dev, AI, and System Design...</i></p>
 
-
-<div align="center">
 
 
 
