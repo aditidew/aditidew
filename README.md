@@ -52,29 +52,12 @@ Currently diving into the world of **Development and Operations**, and always ea
 
 ### 🚀 Pinned Projects
 
-Here are some of the exciting projects I've worked on:
-
-#### 🌍 [TripSera](https://github.com/aditidewangan/TripSera)
-**Helps travelers make the most of unexpected delays or layovers** by suggesting nearby restaurants, cafes, malls, and tourist attractions based on location and available time.  
-🛠️ *Tech:* JavaScript
-
-#### 🐠 [Adaquarium](https://github.com/aditidewangan/Adaquarium)
-An interactive aquarium-themed website for fish enthusiasts. It features plant zoom-ins and embedded info-chat functionality.  
-🛠️ *Tech:* HTML, CSS, JavaScript
-
-#### 🎧 [Spotify Recommendation System](https://github.com/aditidewangan/Spotify-Recommendation)
-A music recommender that personalizes suggestions using **Spotify API** and **machine learning** techniques.  
-🛠️ *Tech:* Python, Jupyter Notebook, ML, Spotify API
-
-#### ☀️ [Weather App](https://github.com/aditidewangan/Weather-App)
-Real-time weather updates for any location using **OpenWeather API**. Displays temperature, humidity, wind speed, and more.  
-🛠️ *Tech:* HTML, CSS, JS, OpenWeather API
-
-#### 🔧 [Keploy](https://github.com/aditidewangan/keploy)
-Forked repo of Keploy – a powerful testing agent for generating **unit, API & integration tests** for developers.  
-🛠️ *Tech:* Go, Docker, DevOps tools
-
-#### 🐚 [Shell Scripting - DevOps](https://github.com/aditidewangan/ShellScripting_DevOps)
-A hands-on collection of shell scripting practices tailored for DevOps beginners. Forked from the popular series by Shubham Londhe.  
-🛠️ *Tech:* Shell, Bash, Linux CLI
+| Project | Description & Tech Stack |
+|--------|---------------------------|
+| 🔹 [TripSera](https://github.com/aditidewangan/TripSera) | Helps travelers find nearby restaurants, cafes, malls, and attractions during delays or layovers. <br> 🛠️ *JavaScript* |
+| 🐠 [Adaquarium](https://github.com/aditidewangan/Adaquarium) | An aquarium-themed site with plant zoom-in and interactive info-chat features. <br> 🛠️ *HTML, CSS, JavaScript* |
+| 🎧 [Spotify Recommendation](https://github.com/aditidewangan/Spotify-Recommendation) | Suggests personalized songs using Spotify API and ML techniques. <br> 🛠️ *Python, Jupyter Notebook, Spotify API* |
+| ☀️ [Weather App](https://github.com/aditidewangan/Weather-App) | Real-time weather updates using OpenWeather API, showing temperature, humidity, and more. <br> 🛠️ *HTML, CSS, JS* |
+| 🧪 [Keploy (Fork)](https://github.com/aditidewangan/keploy) | Testing agent to auto-generate unit, API & integration tests. <br> 🛠️ *Go, Docker, DevOps Tools* |
+| 🐚 [Shell Scripting - DevOps (Fork)](https://github.com/aditidewangan/ShellScripting_DevOps) | Hands-on shell scripting projects for DevOps foundations. <br> 🛠️ *Shell, Bash, Linux CLI* |
 
