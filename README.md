@@ -71,6 +71,35 @@
 <div align="center">
 
 
+## 🚀 Top Projects
+
+### 🌍 [TripSera](https://github.com/your-username/TripSera)
+**Tech Stack:** JavaScript  
+**Description:** TripSera helps travelers make the most of unexpected delays or layovers by suggesting nearby restaurants, cafes, malls, and tourist attractions.  
+**Key Features:**
+- Location-based search
+- Real-time suggestions
+- Responsive user interface
+
+---
+
+### 🎵 [Spotify Recommendation System](https://github.com/your-username/Spotify-Recommendation)
+**Tech Stack:** Python, Jupyter Notebook, Spotify API, Machine Learning  
+**Description:** A music recommendation system that provides personalized suggestions based on user preferences by integrating Spotify’s API and ML algorithms.  
+**Key Features:**
+- Real-time recommendations
+- Smart playlist generation
+- User-centric learning engine
+
+---
+
+💡 *I’m continuously learning and working on new projects across different domains like web development, artificial intelligence, and system design.*
+
+
+<div align="center">
+
+
+
 
 
 ## 📊 GitHub Stats
