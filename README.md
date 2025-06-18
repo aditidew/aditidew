@@ -12,7 +12,8 @@
 
 🌱 Passionate about building elegant solutions using code, logic, and a hint of design thinking.  
 
-🔍 I enjoy exploring new technologies, streamlining workflows, and translating ideas into functional software.  
+🔍 I enjoy exploring new technologies, streamlining workflows, and translating ideas into functional software.
+  
 📌 Actively seeking opportunities to apply and grow my skills in web development, AI, and systems engineering.  
 
 
