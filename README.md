@@ -20,9 +20,11 @@
 --
 </div>
 
-## 🚀 My Tech Stack
 
 <div align="center">
+
+## 🚀 My Tech Stack
+
   
   <!-- Languages & Concepts -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -61,9 +63,10 @@
 
 
 
-## 📊 GitHub Stats
+
 
 <div align="center">
+## 📊 GitHub Stats
 
 ![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditidew&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
 
@@ -72,11 +75,6 @@
 
 </div>
 
-<div align="center">
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aditidew&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
-</div>
 
 
