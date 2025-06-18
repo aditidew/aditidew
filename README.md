@@ -1,31 +1,29 @@
 
 ![Aditi's GitHub Banner](./banner/mybanner.png)
 
-Hey there 👋
+
 <div align="center">
 
 ---
 
 ## 🧑‍💻 About Me
 
-💼 I'm a Software Engineering & Operations Enthusiast with a creative approach to problem-solving.  
+💼 I'm a Software Engineering & Operations Enthusiast with a creative approach to problem-solving. 
+
 🌱 Passionate about building elegant solutions using code, logic, and a hint of design thinking.  
 
 🔍 I enjoy exploring new technologies, streamlining workflows, and translating ideas into functional software.  
 📌 Actively seeking opportunities to apply and grow my skills in web development, AI, and systems engineering.  
 
-📝 I also document my learning and projects to better understand and share what I build.  
-🎯 Currently focused on mastering JavaScript, Python, and full-stack development tools.
 
----
-
-
+--
 </div>
 
+<div align="center">
 
 ## 🚀 My Tech Stack
 
-<div align="center">
+
   
 ### 💻 Languages & Concepts
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
@@ -73,7 +71,7 @@ Hey there 👋
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditidew&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aditidew&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?username=aditidew&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
