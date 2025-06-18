@@ -4,7 +4,14 @@
 Hey there 👋
 <div align="center">
 
-I’m Aditi — part developer, part problem-solver, and full-time tech tinkerer. I blend logic with creativity to build clean code, smooth systems, and seamless experiences. From writing efficient backend logic to streamlining operations, I love turning complexity into clarity.
+## 🧑‍💻 About Me
+
+💼 I'm a Software Engineering & Operations Enthusiast with a creative approach to problem-solving.  
+🌱 Passionate about building elegant solutions using code, logic, and a hint of design thinking.  
+🔍 I enjoy exploring new technologies, streamlining workflows, and translating ideas into functional software.  
+📌 Actively seeking opportunities to apply and grow my skills in web development, AI, and systems engineering.  
+📝 I also document my learning and projects to better understand and share what I build.  
+🎯 Currently focused on mastering JavaScript, Python, and full-stack development tools.
 
 </div>
 
@@ -40,14 +47,17 @@ I’m Aditi — part developer, part problem-solver, and full-time tech tinkerer
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-181717?style=for-the-badge&logo=openai&logoColor=white)
 
 
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 
-![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditidew&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditidew&layout=compact&theme=dark&hide_border=true)
+![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditidew&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditidew&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+</div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=aditidew&theme=default)
 
