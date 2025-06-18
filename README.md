@@ -4,8 +4,6 @@
 
 <div align="center">
 
----
-
 ## 🧑‍💻 About Me
 
 💼 I'm a Software Engineering & Operations Enthusiast with a creative approach to problem-solving. 
@@ -16,8 +14,6 @@
 
 📌 Actively seeking opportunities to apply and grow my skills in web development, AI, and systems engineering.  
 
-
---
 </div>
 
 
