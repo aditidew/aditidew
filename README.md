@@ -45,3 +45,36 @@ Currently diving into the world of **Development and Operations**, and always ea
   <a href="https://www.linkedin.com/in/aditi-dewangan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/aditidewangan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+
+
+---
+
+### 🚀 Pinned Projects
+
+Here are some of the exciting projects I've worked on:
+
+#### 🌍 [TripSera](https://github.com/aditidewangan/TripSera)
+**Helps travelers make the most of unexpected delays or layovers** by suggesting nearby restaurants, cafes, malls, and tourist attractions based on location and available time.  
+🛠️ *Tech:* JavaScript
+
+#### 🐠 [Adaquarium](https://github.com/aditidewangan/Adaquarium)
+An interactive aquarium-themed website for fish enthusiasts. It features plant zoom-ins and embedded info-chat functionality.  
+🛠️ *Tech:* HTML, CSS, JavaScript
+
+#### 🎧 [Spotify Recommendation System](https://github.com/aditidewangan/Spotify-Recommendation)
+A music recommender that personalizes suggestions using **Spotify API** and **machine learning** techniques.  
+🛠️ *Tech:* Python, Jupyter Notebook, ML, Spotify API
+
+#### ☀️ [Weather App](https://github.com/aditidewangan/Weather-App)
+Real-time weather updates for any location using **OpenWeather API**. Displays temperature, humidity, wind speed, and more.  
+🛠️ *Tech:* HTML, CSS, JS, OpenWeather API
+
+#### 🔧 [Keploy](https://github.com/aditidewangan/keploy)
+Forked repo of Keploy – a powerful testing agent for generating **unit, API & integration tests** for developers.  
+🛠️ *Tech:* Go, Docker, DevOps tools
+
+#### 🐚 [Shell Scripting - DevOps](https://github.com/aditidewangan/ShellScripting_DevOps)
+A hands-on collection of shell scripting practices tailored for DevOps beginners. Forked from the popular series by Shubham Londhe.  
+🛠️ *Tech:* Shell, Bash, Linux CLI
+
