@@ -58,6 +58,9 @@
   <img src="https://img.shields.io/badge/Agile-FFC107?style=for-the-badge&logo=jira&logoColor=black" />
   <img src="https://img.shields.io/badge/AI-7F00FF?style=for-the-badge&logo=openai&logoColor=white" />
 
+
+--  
+
 </div>
 
 
@@ -66,6 +69,7 @@
 
 
 <div align="center">
+
 
 
 
